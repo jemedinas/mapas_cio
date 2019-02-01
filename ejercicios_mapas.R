@@ -1,4 +1,3 @@
-setwd("/Volumes/GoogleDrive/Mi unidad/Congresos/Mapas_CIO/presentacion_mapas_cio")
 library(tidyverse)
 library(readxl)
 library(sf)
